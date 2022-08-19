@@ -41,7 +41,7 @@ npm start
 
 #### Insomnia Screenshot
 
-![Screenshot](![image](https://user-images.githubusercontent.com/107082980/185712903-8042cfcc-f79b-4998-9ae9-dd3aefd7111f.png))
+(![image](https://user-images.githubusercontent.com/107082980/185712903-8042cfcc-f79b-4998-9ae9-dd3aefd7111f.png))
 
 ## License
 
