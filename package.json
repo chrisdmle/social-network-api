@@ -4,7 +4,8 @@
     "description": "NoSQL Social Network API",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit"
+      "test": "echo \"Error: no test specified\" && exit",
+      "start": "node server.js"
     },
     "repository": {
       "type": "git",
