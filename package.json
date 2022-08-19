@@ -1,0 +1,25 @@
+{
+    "name": "social-network-api",
+    "version": "1.0.0",
+    "description": "NoSQL Social Network API",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/chrisdmle/social-network-API"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/chrisdmle/social-network-API"
+    },
+    "homepage": "https://github.com/chrisdmle/social-network-API#readme",
+    "dependencies": {
+      "express": "^4.18.0",
+      "moment": "^2.29.0",
+      "mongoose": "^6.0.0"
+    }
+  }
